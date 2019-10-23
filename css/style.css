@@ -1,0 +1,32 @@
+.padding-0{
+    padding: 0px !important;
+}
+.padding-left-0{
+    padding-left: 0px !important;
+}
+.padding-left-5{
+    padding-left: 5px !important;
+}
+.padding-left-10{
+    padding-left: 10px !important;
+}
+.padding-left-25{
+    padding-left: 25px !important;
+}
+
+.padding-right-0{
+    padding-right: 0px !important;
+}
+.padding-right-5{
+    padding-right:5px !important;
+}
+.margin-0{
+    margin: 0px !important;
+}
+.margin-bottom-10{
+    margin-bottom: 10px !important;
+}
+
+.position-relative{
+    position: relative;
+}
